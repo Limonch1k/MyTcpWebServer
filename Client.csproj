@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Новая_папка__2_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CrossPlatformProtectedData" Version="1.0.3" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="SMBLibrary" Version="1.5.0" />
+    <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="7.0.1" />
+  </ItemGroup>
+
+</Project>

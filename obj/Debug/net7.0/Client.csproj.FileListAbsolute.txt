@@ -1,0 +1,12 @@
+C:\Users\Dima\Desktop\Новая папка (2)\bin\Debug\net7.0\Client.deps.json
+C:\Users\Dima\Desktop\Новая папка (2)\bin\Debug\net7.0\Client.dll
+C:\Users\Dima\Desktop\Новая папка (2)\bin\Debug\net7.0\Client.pdb
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.dll
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\Client.pdb
+C:\Users\Dima\Desktop\Новая папка (2)\obj\Debug\net7.0\ref\Client.dll

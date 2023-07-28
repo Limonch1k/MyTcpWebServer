@@ -1,0 +1,30 @@
+[
+	{
+		"host": "*******",
+		"path": "/home/jopa/file.txt",
+		"user": "root",
+		"password": "*******",
+		"share_folder_name": "popa",
+		"protocol": "smb1",
+		"new_file_name": "resamos.bin"
+
+	},
+	{
+		"host": "*******",
+		"path": "newfile.txt",
+		"user": "share",
+		"password": "share_folder",
+		"share_folder_name": "share",
+		"protocol": "smb2",
+		"newname": "jopa.txt"
+	},
+	{
+		"host": "*********",
+		"path": "NewProgntest.txt/",
+		"user": "air",
+		"password": "*****",
+		"share_folder_name": "share",
+		"protocol": "sftp",
+		"newname": "jopa.txt"
+	}
+]
